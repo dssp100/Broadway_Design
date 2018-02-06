@@ -3,5 +3,5 @@ body {
 }
 
 h1 {
-  background-image: url(file:///Users/dssp/Documents/Programing/Codecademy/Projects/Git/Broadway_Design/resources/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
 }
