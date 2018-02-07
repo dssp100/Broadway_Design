@@ -3,11 +3,12 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
-#nav {
+.img{
   display: block;
   background-image: url(../images/the-flatiron-building.png);
   color: White
 }
+
 div h1 {
   font-size: 70px;
   font-weight: bold;
@@ -15,6 +16,10 @@ div h1 {
 div a {
   font-size: 18px;
   color: White;
-
-
+}
+#footer {
+  font-size: 11px;
+  color: White;
+  background-color: Dimgray;
+  text-align: left;
 }
